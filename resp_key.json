@@ -1,0 +1,171 @@
+[
+    {
+	  "sorry":[
+	  "Please don't apologise.",
+	  "Apologies are not necessary.",
+	  "I've told you that apologies are not required.",
+	  "It did not bother me.  Please continue."
+   
+	  ]
+    },
+    {
+	  "i remember": [
+	  "Do you often think of # ?",
+	  "Does thinking of # bring anything else to mind ?",
+	  "What else do you recollect ?",
+	  "Why do you remember # just now ?",
+	  "What in the present situation reminds you of # ?",
+	  "What is the connection between me and # ?",
+	  "What else does # remind you of ?"
+	  ]
+    },
+    {
+	  "do you remember": [
+	  "Did you think I would forget #?",
+	  "Why do you think I should recall # now?",
+	  "What about #?",
+	  "goto what",
+	  "You mentioned #?"
+	  ]
+    },
+    {
+	  "you remember": [
+	  "How could I forget #?",
+	  "What about # should I remember?"
+	  ]
+    },
+    {
+	  "i forget": [
+	  "Can you think of why you might forget #?",
+	  "Why can't you remember #?",
+	  "How often do you think of #?",
+	  "Does it bother you to forget that #",
+	  "Could it be a mental block ?",
+	  "Are you generally forgetful ?",
+	  "Do you think you are suppressing #?"
+	  ]
+    },
+    {
+	  "i forgot": [
+	  "Can you think of why you might forget # ?",
+	  "Why can't you remember # ?",
+	  "How often do you think of # ?",
+	  "Does it bother you to forget that #",
+	  "Could it be a mental block ?",
+	  "Are you generally forgetful ?",
+	  "Do you think you are suppressing # ?"
+	  ]
+    },
+    {
+	  "did you forget": [
+	  "Why do you ask?",
+	  "Are you sure you told me?",
+	  "Would it bother you if I forgot # ?",
+	  "Why should I recall # just now ?",
+	  "goto what",
+	  "Tell me more about #."
+	  ]
+    },
+    {
+	  "did you forgot": [
+	  "Why do you ask ?",
+	  "Are you sure you told me ?",
+	  "Would it bother you if I forgot # ?",
+	  "Why should I recall # just now ?",
+	  "goto what",
+	  "Tell me more about #."
+	  ]
+    },
+    {
+	  "if": [
+	  "Do you think it's likely that # ?",
+	  "Do you wish that # ?",
+	  "What do you know about # ?",
+	  "Really, if # ?",
+	  "What would you do if # ?",
+	  "But what are the chances that # ?",
+	  "What does this speculation lead to ?"
+	  ]
+    },
+    {
+	  "they are": [
+	  "Did you think they might not be # ?",
+	  "Would you like it if they were not # ?",
+	  "What if they were not # ?",
+	  "Are they always # ?",
+	  "Possibly they are #.",
+	  "Are you positive they are # ?"
+	  ]
+    },
+    {
+	"i want":[
+	  "It is because you want # that you should hang yourself?",
+	  "Why do you want # so much?",
+	  "You would't want # at a time like this"
+	]  
+    },
+    {
+	"you want": [
+	  "Who told you I want #",
+	  "I might want to # but then again I'm a computer I don't want things.",
+	  "What if I want #"
+	  ]  
+    },
+    {
+	  "i can": [
+		"Are you sure you can # ?",
+		"I really hope can # by today",
+		"Alright just # already then!"
+	  ]
+    },
+    {
+	  "you can": [
+		"Yea maybe I can #",
+		"Nice of you to think that I can #",
+		"It doesn't matter if I can #, it's about what can you do"
+	  ]
+    },
+    {
+	  "i should": [
+		"Why do you think you should #?",
+		"Yes I think you should # ASAP!",
+		"Maybe you should # then, right?"
+	  ]
+    },
+    {
+	  "you should": [
+		"I don't think I can #",
+		"You really think I should #?"
+	  ]
+    },
+    {
+	  "i can't": [
+		"Dont say that I'm sure you can #",
+		"Why makes you say you can't #?"
+	  ]
+    },
+    {
+	  "i try": [
+		"It's good that you try #",
+		"Well it's not a bad idea for you to try #"
+	  ]
+    },
+    {
+	  "i'm trying": [
+		"It's good that you're trying #",
+		"Well it's not a bad idea for you to try #"
+	  ]
+    },
+    {
+	  "i'm trying to": [
+		"It's good that you're trying to #",
+		"Well it's not a bad idea for you to try to #"
+	  ]
+    },
+    {
+	  "say": [
+		"say what?",
+		"I don't know what you mean by #"
+	  ]
+    }
+]
